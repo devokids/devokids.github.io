@@ -95,13 +95,16 @@ analytics:
 author:
   name             : "Oscar Campo"
   avatar           : "/assets/images/perfil.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Son of #God #Jesus follower, beloved husband, and dad #professor #engineer #illustrator commissions: oscampo@gmail.com"
+  bio              : "Hijo de Dios, seguidor de Jesús, esposo enamorado y papá orgulloso. Docente Universitario, Ingeniero, Ilustrador. Contáctame: "
   location         : "Cali, Colombia"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:oscampo@gmail.com
+    - label: "WhatsApp"
+      icon: "fas fa-fw fa-link"
+      url: "https://wa.me/573044140340"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
