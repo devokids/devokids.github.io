@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:oscampo@gmail.com
     - label: "WhatsApp"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-whatsapp-square"
       url: "https://wa.me/573044140340"
     - label: "Website"
       icon: "fas fa-fw fa-link"
