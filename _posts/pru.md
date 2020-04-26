@@ -1,14 +1,9 @@
 ---
-title: "post de prueba"
-categories:
-  - prueba
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+layout: post
+title: Bienvenidos al Blog del curso
+autor: Oscar Campo
 ---
+
 #prueba#
 
 hola mundo!
