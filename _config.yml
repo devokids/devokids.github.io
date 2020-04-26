@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Oscar Campo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/perfil.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Son of #God #Jesus follower, beloved husband, and dad #professor #engineer #illustrator commissions: oscampo@gmail.com"
   location         : "Cali, Colombia"
   email            :
