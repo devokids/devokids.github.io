@@ -6,7 +6,7 @@ Documento: Prueba
 
 # Probando Archvos MD
 
-Esta es una pruena de archivos *MD*
+Esta es una prueba de archivos *MD*
 
 1. Uno
 1. Dos
