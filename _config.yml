@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "es-CO"
-title                    : "DevoKids"
+title                    : "DevoKids - Imágenes para descargar, reflexionar, colorear, compartir!!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Oscar Campo"
-description              : "Imágenes para descargar, colorear y compartir!"
+description              : "Imágenes para descargar, reflexionar, colorear y compartir!"
 url                      : "https://devokids.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "devokids/devokids.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/header.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "DevoKids" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "DevoKids - Imágenes para descargar, reflexionar, colorear, compartir!!" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,6 +105,9 @@ author:
     - label: "WhatsApp"
       icon: "fab fa-whatsapp-square"
       url: "https://wa.me/573044140340"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/oscampo"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -117,9 +120,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/oscampo"
+    
 
 # Site Footer
 footer:
